@@ -8,11 +8,13 @@ html{
     scroll-snap-type: y mandatory;
   }
 
-  .header, 
+ .header,
+  .video, 
   .bg-black,
   .bg-morado,
   .bg-cafe,
-  .bg-white{
+  .bg-white,
+  .site-footer{
     scroll-snap-align: center;
     scroll-snap-stop: always;
   }
